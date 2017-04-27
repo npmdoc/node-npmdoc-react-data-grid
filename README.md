@@ -1,6 +1,6 @@
 # npmdoc-react-data-grid
 
-#### api documentation for  react-data-grid (v2.0.27)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-data-grid.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-data-grid) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-data-grid.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-data-grid)
+#### basic api documentation for  react-data-grid (v2.0.32)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-data-grid.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-data-grid) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-data-grid.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-data-grid)
 
 #### The grid core
 
@@ -29,8 +29,8 @@
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "6981eb269fece407236494e5f775f0fd3f1d0720",
-        "tarball": "https://registry.npmjs.org/react-data-grid/-/react-data-grid-2.0.27.tgz"
+        "shasum": "eee5187d40d89a5046fea1b931960cf7f8fdb806",
+        "tarball": "https://registry.npmjs.org/react-data-grid/-/react-data-grid-2.0.32.tgz"
     },
     "keywords": [
         "react",
@@ -54,7 +54,8 @@
         "postpublish": "node ../../ci/publish/replacePackageEntry react-data-grid",
         "test": "npm test"
     },
-    "version": "2.0.27"
+    "version": "2.0.32",
+    "bin": {}
 }
 ```
 
